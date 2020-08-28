@@ -1,0 +1,62 @@
+[
+    {
+        "name": "SKS Spey",
+        "imo": 9326720,
+        "speed": 12.10,
+        "longitude": -37.26771500,
+        "latitude": 20.73510000,
+        "course": 54,
+        "draught": 9.2,
+        "navStatus": "Under way using engine"
+    },
+    {
+        "name": "Indigo Sun",
+        "imo": 9592288,
+        "speed": 10.799,
+        "longitude": -34.43949000,
+        "latitude": 37.30996300,
+        "course": 269,
+        "draught": 8,
+        "navStatus": "Under way using engine"
+    },
+    {
+        "name": "Hafnia Lise",
+        "imo": 9726621,
+        "speed": 12.3,
+        "longitude": -38.86606600,
+        "latitude": 40.68593200,
+        "course": 70.2,
+        "draught": 12.2,
+        "navStatus": "Under way using engine"
+    },   
+    {
+        "name": "SKS Skeena",
+        "imo": 9301536,
+        "speed": 12.5,
+        "longitude": -12.67415000,
+        "latitude": 36.33715000,
+        "course": 192,
+        "draught": 10,
+        "navStatus": "Under way sailing"
+    },
+    {
+        "name": "Champion Endurance",
+        "imo": 9288813,
+        "speed": 11.3,
+        "longitude": -25.14378700,
+        "latitude": 40.99017300,
+        "course": 237.4,
+        "draught": 8.5,
+        "navStatus": "Under way using engine"
+    },
+    {
+        "name": "Essex",
+        "imo": 9403877,
+        "speed": 12.41,
+        "longitude": -50.40433500,
+        "latitude": 15.98836700,
+        "course": 100,
+        "draught": 10.3,
+        "navStatus": "Under way using engine"
+    }
+]
